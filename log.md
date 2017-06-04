@@ -33,11 +33,37 @@ https://www.youtube.com/user/agragregra
 
 
 
-### Day 1: June 3, Saturday
+### Day 3: June 3, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through some exercises on FreeCodeCamp. Created Tribute Page.
+Learned Bootstrap. Added some typography features.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Some features dont work in Bootstrap 4.
+
+**Made projects**:
+1. Made this morning: https://codepen.io/Nataly247/pen/tribute_page
+2. During day: https://codepen.io/Nataly247/pen/QgLzRa
+
+
+### Day 4: June 4, 2017 Friday
+##### 
+
+**Today's Progress**: Learned how to use Git. Also Bootstrap and Javascript login form. Made few sections of site.
+
+**Thoughts**: Not yet 
+
+**Link(s) to work**:
+https://codeguida.com/post/453#
+
+
+
+**Made projects**: 
+1. Made this morning: https://gist.github.com/nataly247/b693af11097b04d8ec472e86e64532aa
+2. During day: https://codepen.io/Nataly247/pen/QgLzRa
+3. Late evening: 
+
+
+
 
 **Link(s) to work**
 1. Learn JavaScript (https://www.freecodecamp.com/)
