@@ -246,7 +246,7 @@ Learned about Node.js basics.
 1. https://www.youtube.com/watch?v=pB7EwxwSfVk
 
 **Made projects**: 
-1. https://codepen.io/Nataly247/pen/rwLxoN
+1. https://github.com/nataly247/Light-Bootstrap-Theme
 2. 
 
 
