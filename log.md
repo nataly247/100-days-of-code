@@ -182,15 +182,73 @@ Learned about Node.js basics.
 ### Day 14: June14, 2017 Wednesday
 ##### 
 
-**Today's Progress**: Rewised Flexbox model and learned about Grid Layout.
+**Today's Progress**: Rewised Flexbox model and made small showcase of its features.
 
-**Thoughts**: 
+**Thoughts**: Flexbox playground took me more time than i thought. Don't notice time while I'm doing it.
 
 **Link(s) to work**:
 1. https://youtu.be/JJSoEo8JSnc?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU  **Flexbox in 20min**
-2. https://gridbyexample.com        **CSS Grid**
-3. https://www.youtube.com/watch?v=N5Lt1SLqBmQ
+
 
 **Made projects**: 
-1. https://codepen.io/Nataly247/
+1. https://codepen.io/Nataly247/pen/EXgOrR
+
+
+### Day 15: June15, 2017 Tuesday
+##### 
+
+**Today's Progress**: Finished JQuery section on FreeCodeCamp and revised Javascript basics. 
+
+**Thoughts**: Flexbox playground took me more time than i thought. Don't notice time while I'm doing it.
+
+**Link(s) to work**
+1. Learn jQuery(https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
+2. https://www.w3schools.com/js/js_intro.asp
+
+**Made projects**: 
+1. https://codepen.io/Nataly247/pen/rwLxoN
+2. https://codepen.io/Nataly247/pen/MobyOM
+
+
+### Day 16: June16, 2017 Friday
+##### 
+
+**Today's Progress**: Learned about CSS Grid Layout.
+
+**Thoughts**: Cool lady)
+
+**Link(s) to work**:
+1. https://gridbyexample.com        **CSS Grid**
+2. https://www.youtube.com/watch?v=N5Lt1SLqBmQ
+
+
+### Day 17: June17, 2017 Saturday
+##### 
+
+**Today's Progress**: Learned the right way to create Bootsrap theme with Sass. Usung Node and Bower. Also Koala and Prepros.
+                      Made index.html and styles. 
+
+**Thoughts**: Wasted more time to install it all than doing project itself. The tutor makes it all so easy. Very good explanation.
+
+**Link(s) to work**:
+1. https://www.youtube.com/watch?v=pB7EwxwSfVk
+
+
+### Day 18: June18, 2017 Sunday
+##### 
+
+**Today's Progress**: Finished creating Bootsrap theme with Sass. Usung Node, Bower and Prepros.
+                      Made other pages. Downloaded it all on GitHub. 
+
+**Thoughts**: Wasted more time to install it all than doing project itself. The tutor makes it all so easy. Very good explanation.
+
+**Link(s) to work**:
+1. https://www.youtube.com/watch?v=pB7EwxwSfVk
+
+**Made projects**: 
+1. https://codepen.io/Nataly247/pen/rwLxoN
+2. 
+
+
+
 
