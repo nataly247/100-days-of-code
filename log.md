@@ -220,6 +220,7 @@ Learned about Node.js basics.
 **Link(s) to work**:
 1. https://gridbyexample.com        **CSS Grid**
 2. https://www.youtube.com/watch?v=N5Lt1SLqBmQ
+3. https://www.youtube.com/watch?v=Rpm7cSWjiGA
 
 
 ### Day 17: June17, 2017 Saturday
