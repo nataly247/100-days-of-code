@@ -117,6 +117,7 @@ Still need to add slider to jumbotron and owl-carousel to feedback section.
 **Made projects**: 
 1. https://codepen.io/Nataly247/pen/OgyKME
 
+
 ### Day 9: June9, 2017 Friday
 ##### 
 
@@ -133,6 +134,7 @@ Still need to add slider to jumbotron and owl-carousel to feedback section.
 
 **Made projects**: 
 1. https://codepen.io/Nataly247/pen/owgaqg
+
 
 ### Day 11: June11, 2017 Sunday
 ##### 
@@ -197,17 +199,16 @@ Learned about Node.js basics.
 ### Day 15: June15, 2017 Tuesday
 ##### 
 
-**Today's Progress**: Finished JQuery section on FreeCodeCamp and revised Javascript basics. 
+**Today's Progress**: Finished JQuery section on FreeCodeCamp and learned about Animate.css.  
 
-**Thoughts**: Flexbox playground took me more time than i thought. Don't notice time while I'm doing it.
+**Thoughts**: Cool library of animated effects.
 
 **Link(s) to work**
 1. Learn jQuery(https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
-2. https://www.w3schools.com/js/js_intro.asp
+2. https://daneden.github.io/animate.css/
 
 **Made projects**: 
-1. https://codepen.io/Nataly247/pen/rwLxoN
-2. https://codepen.io/Nataly247/pen/MobyOM
+1. https://codepen.io/Nataly247/pen/MobyOM
 
 
 ### Day 16: June16, 2017 Friday
@@ -248,8 +249,74 @@ Learned about Node.js basics.
 
 **Made projects**: 
 1. https://github.com/nataly247/Light-Bootstrap-Theme
-2. 
 
 
+### Day 19: June19, 2017 Monday
+##### 
+
+**Today's Progress**: Revised Javascript basics. Made a little showcase - Few Examples of JavaScript. 
+
+**Thoughts**: Learned few tricks about changing html with javascript.
+
+**Link(s) to work**
+1. https://www.w3schools.com/js/js_intro.asp
+
+**Made projects**: 
+1. https://codepen.io/Nataly247/pen/rwLxoN
 
 
+### Day 20: June20, 2017 Thursday
+##### 
+
+**Today's Progress**: Worked on site template. Downloaded files to HitHub. 
+
+**Thoughts**: Some features still dont work.
+
+**Link(s) to work**
+1. https://v4-alpha.getbootstrap.com/components/
+
+**Made projects**: 
+1. https://github.com/nataly247/MED-Template
+
+
+### Day 21: June21, 2017 Wednesday
+##### 
+
+**Today's Progress**: Learned Javascript on FreeCodeCamp.
+
+**Thoughts**: I get it.
+
+**Link(s) to work**:
+1. https://www.freecodecamp.com/challenges/comment-your-javascript-code*
+
+
+### Day 22: June22, 2017 Tuesday
+##### 
+
+**Today's Progress**: Tried to create counter for site using Javascript and Jquery.  
+
+**Thoughts**: Created two counters learning from already made projects.
+
+**Link(s) to work**
+1. http://www.i-visionblog.com/2014/11/jquery-animated-number-counter-from-zero-to-value-jquery-animation.html
+
+
+**Made projects**: 
+1. https://codepen.io/Nataly247/pen/PjmNwP
+1. https://codepen.io/Nataly247/pen/zzweNa
+
+
+### Day 23: June23, 2017 Friday
+##### 
+
+**Today's Progress**: Learned more about Animations in CSS. Started making Creatives template. 
+
+**Thoughts**: Created my own animation without using ready-made libraries. Dont understand why text-align dont work.
+
+**Link(s) to work**
+1. https://www.w3schools.com/css/css3_animations.asp
+2. https://css-tricks.com/almanac/properties/a/animation/
+
+**Made projects**: 
+1. https://codepen.io/Nataly247/pen/xrXgzN
+1. https://codepen.io/Nataly247/pen/zzweNa
