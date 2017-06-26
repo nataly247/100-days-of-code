@@ -319,4 +319,4 @@ Learned about Node.js basics.
 
 **Made projects**: 
 1. https://codepen.io/Nataly247/pen/xrXgzN
-1. https://codepen.io/Nataly247/pen/zzweNa
+
