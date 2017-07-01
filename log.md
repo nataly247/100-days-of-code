@@ -320,3 +320,17 @@ Learned about Node.js basics.
 **Made projects**: 
 1. https://codepen.io/Nataly247/pen/xrXgzN
 
+### Day 30: June30, 2017 Friday
+##### 
+
+**Today's Progress**: Learned about JavaScript popup boxes (confirm, alert, prompt). 
+
+**Thoughts**: Created small showcase on codepen. 
+
+**Link(s) to work**
+1. https://www.w3schools.com/js/js_popup.asp
+2. https://www.youtube.com/watch?v=SVObmJeD0LA
+
+**Made projects**: 
+1. https://codepen.io/Nataly247/pen/WOzjmY
+
