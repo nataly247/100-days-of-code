@@ -334,3 +334,5 @@ Learned about Node.js basics.
 **Made projects**: 
 1. https://codepen.io/Nataly247/pen/WOzjmY
 
+That was 30 days of code shortened version:) 
+
